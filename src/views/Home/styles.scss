@@ -1,0 +1,12 @@
+.welcome-message-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* Asegura que el contenedor tome todo el alto disponible */
+    justify-content: space-between; /* Espacia el contenido para que el botón esté en la parte inferior */
+}
+
+.welcome-message {
+}
+
+.welcome-message-button {
+}
